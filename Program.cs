@@ -47,6 +47,8 @@ class GenericList
             Console.WriteLine(item);
         }
     }
+
+
 }
 
 class Program
@@ -59,7 +61,7 @@ class Program
         list.AddItem(42);
         list.AddItem("Hola");
         list.AddItem(3.14);
-        list.AddItem("Mundo");
+        list.AddItem("QA");
 
         // Imprimir todos los elementos
         list.PrintAllItems();
