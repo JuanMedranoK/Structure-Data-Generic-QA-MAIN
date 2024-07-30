@@ -1,0 +1,14 @@
+C:\Users\juan_\EstructuraDatosGenericas\bin\Debug\net8.0\EstructuraDatosGenericas.exe
+C:\Users\juan_\EstructuraDatosGenericas\bin\Debug\net8.0\EstructuraDatosGenericas.deps.json
+C:\Users\juan_\EstructuraDatosGenericas\bin\Debug\net8.0\EstructuraDatosGenericas.runtimeconfig.json
+C:\Users\juan_\EstructuraDatosGenericas\bin\Debug\net8.0\EstructuraDatosGenericas.dll
+C:\Users\juan_\EstructuraDatosGenericas\bin\Debug\net8.0\EstructuraDatosGenericas.pdb
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\EstructuraDatosGenericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\EstructuraDatosGenericas.AssemblyInfoInputs.cache
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\EstructuraDatosGenericas.AssemblyInfo.cs
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\EstructuraDatosGenericas.csproj.CoreCompileInputs.cache
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\EstructuraDatosGenericas.dll
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\refint\EstructuraDatosGenericas.dll
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\EstructuraDatosGenericas.pdb
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\EstructuraDatosGenericas.genruntimeconfig.cache
+C:\Users\juan_\EstructuraDatosGenericas\obj\Debug\net8.0\ref\EstructuraDatosGenericas.dll
