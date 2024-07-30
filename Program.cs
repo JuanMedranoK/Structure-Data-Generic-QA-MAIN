@@ -47,6 +47,10 @@ class GenericList
             Console.WriteLine(item);
         }
     }
+    public void HelloQA()
+    {
+        Console.WriteLine("Hello QA");
+    }
 
 
 }
